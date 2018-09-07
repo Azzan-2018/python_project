@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    <string name="error_incorrect_password">Enter password does not conform the rules</string>
+    <string name="copy_right">Copyright @2018 泰沃</string>
+    <string name="tai_wo">泰沃</string>
+    <string name="me_page">My</string>
+    <string name="u_are_not_merchant">You are not a Merchant</string>
+    <string name="undo_order">Unprocessed orders</string>
+    <string name="modify">Modify</string>
+    <string name="reset">Reset</string>
+    <string name="modify_email">Modify The Binding</string>
+    <string name="modify_phone">Modify The Binding</string>
+    <string name="person_verification_level">Level description</string>
+    <string name="u_should_do_this_to_obtain_merchant_auth">If you need to verify,please do the following steps:</string>
+    <string name="finished_user_identify_verify_first">Completion of identity verification(L2)</string>
+    <string name="go_to_web">Go to offical website(</string>
+    <string name="to_apply">) to apply</string>
+    <string name="deposit_total_money">Total Margin</string>
+
+    <string name="v3_customer_enjoy_highest">Users of V3 level have higher limit of withdrawals and legal OTC transactions within 24h</string>
+    <string name="withdraw_limit_value">Withdrawal Limit</string>
+    <string name="and_money_coin">and OTC</string>
+    <string name="deal_limit_value">Transaction Limit</string>
+
+    <string name="modify_your_shop_nickname">Set a nickname for your shop</string>
+    <string name="text_in_5_hanzi_or_in_10_character">10 bits that exclude the special characters</string>
+    <string name="notice_nickname_could_not_be_changed_after_is_modified">Once the new nickname is set not to be modified</string>
+
+    <string name="history_order">History orders </string>
+    <string name="one_day">1D</string>
+    <string name="three_day">3D</string>
+    <string name="one_week">1W</string>
+    <string name="one_month">1M</string>
+    <string name="other_time">other dates</string>
+    <string name="auction_money_details">Margin Detail</string>
+
+    <string name="watch_detail">View the details</string>
+    <string name="merchant_nickname">nickname for your shop</string>
+    <string name="modify_nickname">change the nickname</string>
+    <string name="deposit">Margin</string>
+
+    <string name="no_coin">No,/Coin</string>
+    <string name="launch_time">Release time</string>
+    <string name="number_amount">Amt/Filled</string>
+
+    <string name="advertise_order">Orders for ad</string>
+
+    <string name="for_buy">want to by</string>
+    <string name="for_sell">want to sell</string>
+
+    <string name="type">Ad type</string>
+    <string name="please_select">please choose</string>
+
+    <string name="advertise_basic_information">Basic info:</string>
+    <string name="area">Country</string>
+    <string name="law_money">Currency</string>
+    <string name="digital_coin_type">Coin</string>
+    <string name="amount_number">Amount</string>
+    <string name="unit_price">Price</string>
+    <string name="total_price">Total</string>
+    <string name="order_limit_value">Trade Limit</string>
+    <string name="launch">Release</string>
+
+    <string name="please_select_type">Please choose transaction type</string>
+    <string name="please_input_amount_more_than_0">The number of transactions must be greater than 0</string>
+    <string name="please_input_unit_price_more_than_0">The price of transactions must be greater than 0</string>
+    <string name="please_input_min_limit_more_than_0">The minimum limit must be greater than 0 </string>
+    <string name="please_input_max_limit_more_than_min_limit">The maximum limit amount must be greater than the minimum limit amount</string>
+
+    <string name="super_refund_broker">Referral rabate</string>
+    <string name="recommend_id">referal ID</string>
+    <string name="in_check_out">Verifying</string>
+
+
+    <string name="merchant_area">Merchant Corner</string>
+    <string name="my_advertise">My ads</string>
+    <string name="new_advertise">New ad</string>
+    <string name="loading">loading</string>
+    <string name="please_input_valid_character_code">Please enter the correct code</string>
+
+    <string name="password_character">1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!"#$%&amp;'()*+,-./:;&lt;=&gt;?@[\]^_`{|}~</string>
+
+    <string name="password_max_length">12</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="login_out">quit/log out</string>
+
+    <string name="login_at_now">login now</string>
+
+    <string name="i_agree_with_ztjk">I Agree</string>
+    <string name="service_contract"> terms and Condition</string>
+    <string name="reset_password">reset password</string>
+    <string name="forget_password_T">Forgotten password？</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_new_password">set new password</string>
+    <string name="register_now">Create new account</string>
+    <string name="visitor">Visitor</string>
+
+    <string name="has_unfinished_otc_are_u_sure_to_revoke">The unfinished orders included in the advertisement will continue to be retained. Will you confirm the cancellation of the advertisement?</string>
+    <string name="otc_revoke">Ad cancellation</string>
+
+    <string name="has_register_T">Already have an account?</string>
+    <string name="please_read_service_contract">Terms and condition</string>
+    <string name="please_input_valid_password">Please input the correct password</string>
+
+    <string name="we_send_a_verify_message_to_your_email_please_input_dynamic_code">Please enter 6 digit code sent to your email</string>
+    <string name="verify_your_email">Verify your Email</string>
+    <string name="resend_email">Resend Code</string>
+    <string name="done">completed</string>
+    <string name="new_password">New Password</string>
+    <string name="new_login_password">new login password</string>
+    <string name="sure_login_password">Confirm login password</string>
+    <string name="old_password">Old Password</string>
+    <string name="withdraw_can_not_be_allowed_in_24h_after_modify_login_password">No entry is allowed within 24h after the login password is modified</string>
+
+    <string name="please_input_login_email">Please enter the email</string>
+    <string name="please_input_login_password">Please enter the Password</string>
+
+    <string name="please_input_you_email_address">please enter you email</string>
+    <string name="please_input_you_login_password">please enter you login password</string>
+    <string name="please_input_you_recommender_id">Referal ID (Optional)</string>
+
+    <string name="commit">Submit</string>
+    <string name="email">Email</string>
+    <string name="next">Next</string>
+    <string name="cleaning_cache">Clearing cache</string>
+    <string name="dynamic_code">Verification Code</string>
+
+    <string name="safe">Security</string>
+    <string name="registering_please_wait">Registering, please wait... </string>
+    <string name="resetting_please_wait">Setting，please wait</string>
+    <string name="please_wait_a_moment">waiting</string>
+    <string name="ok">Confirm</string>
+    <string name="person_verification">personal verification</string>
+    <string name="user_level">user level</string>
+    <string name="no_verify">Unverified</string>
+    <string name="has_verify">verified</string>
+
+    <string name="new_password_invalid">The new password entered does not match the format</string>
+    <string name="old_password_invalid">The old password entered does not match the format</string>
+    <string name="please_sure_the_input_new_password_are_same">The passwords you entered must be the same</string>
+
+    <string name="merchant">Merchant Corner</string>
+    <string name="safe_verification">Security</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="modify_login_password">Modify The Login Password</string>
+    <string name="reset_money_password">Reset the capital password</string>
+    <string name="phone_no">Mobile Phone NO.</string>
+    <string name="language">Language</string>
+    <string name="clean_cache">Cache Cleaner</string>
+    <string name="about">About</string>
+    <string name="feedback">FeedBack</string>
+    <string name="verify_type_selector">Choose Verify Type</string>
+    <string name="id_card_china">ID card</string>
+    <string name="other_country_or_area_passport">passport</string>
+    <string name="please_input_your_name">Please entry your name</string>
+    <string name="please_input_your_birth_day">Date of Birth</string>
+    <string name="please_input_your_address">Residence Address</string>
+    <string name="please_input_your_postal_code">Zip Code</string>
+    <string name="please_input_your_city">City</string>
+    <string name="please_input_your_country">Country/Region</string>
+    <string name="start_verify">Begin Verification</string>
+
+    <string name="your_level_will_become_to_2_after_identify_verify">\t\tAfter verification, your user level will rise to Level2 (Get a higher limig for withdrawal within 24h and you can do the OTC transactions)</string>
+    <string name="input_basic_info">Please Entry personal basic info</string>
+    <string name="input_residence_info">Residence Address</string>
+
+    <string name="names">Gender</string>
+    <string name="please_add_receipt_code">Please add receipt QR code</string>
+    <string name="please_sure_the_input_bank_account_no_are_same">Two different card No. input</string>
+    <string name="money_account_setting">Set up payment method</string>
+    <string name="select_pay_type">Choose Pay Type</string>
+    <string name="bank_name">bank name</string>
+
+    <string name="branch_bank_name">branch name</string>
+    <string name="bank_card_no">bank card No.</string>
+    <string name="sure_card_no">Confirm the No.</string>
+    <string name="alipay_account">AliPay</string>
+    <string name="wechat_account">WeChat</string>
+    <string name="ic_card_face">front page of ID</string>
+    <string name="add_ali_pay">Add AliPay</string>
+    <string name="modify_ali_pay">Modify AliPay</string>
+    <string name="add_bank_card">Add Bank</string>
+    <string name="modify_bank_card">Set bank card</string>
+    <string name="add_wechat">Add Wechat</string>
+    <string name="modify_wechat">Modify Wechat</string>
+    <string name="upload_an_image_of_your_face">Upload a personal photo</string>
+    <string name="please_hold_a_piece_of_paper_with_wotai_and_time">(Please hold a handwritten note with the word "TaiWo" and today's date)</string>
+    <string name="please_make_sure_photo_is_clarity">(Make suer the picture is complete and clear)</string>
+    <string name="example">e.g:</string>
+    <string name="id_card_back">Reverse side of ID card</string>
+    <string name="id_card_verify">ID card certification</string>
+    <string name="passport_verify">Passport certification</string>
+    <string name="passport_cover_image">Passport cover</string>
+    <string name="passport_profile_page">Passport personal information page</string>
+    <string name="identify_verify">Identity Verification </string>
+    <string formatted="false" name="bind_phone_s">Binding mobile phone number: %s</string>
+    <string formatted="false" name="bind_email_s">Binding email: %s</string>
+    <string name="old_phone">Original mobile phone number</string>
+    <string name="old_email">Oeiginal email</string>
+    <string name="please_check_the_old_email_first_for_account_secret">For the sake of your account security, please verify your original mailbox number. Click to Send verification code, and you will receive an email with the verification code</string>
+    <string name="please_check_the_old_phone_first_for_account_secret">For the sake of your account security, please verify your original mobile phone No. Click to Send verification code, and you will receive an SMS with the verification code</string>
+    <string name="obtain_dynamic_code">Send verification code</string>
+    <string name="dynamic_code_d_s">%d sec</string>
+    <string name="resend_dynamic_code">Resend Code</string>
+    <string name="please_input_email_dynamic_code">Please enter the authenticator code sent to your email</string>
+    <string name="please_input_sms_dynamic_code">Please enter SMS verification code</string>
+    <string name="please_input_new_email">please enter new email</string>
+    <string name="please_input_new_phone">please enter new mobile phone No.</string>
+    <string name="please_choose_country">choose countries / regions </string>
+    <string name="input_new_email">Enter the new email</string>
+    <string name="input_new_phone">Enter the new mobile phone NO.</string>
+    <string name="bind_email">Bind Email</string>
+    <string name="bind_phone">Bind Phone</string>
+    <string name="sms_verify">SMS verification</string>
+    <string name="email_verify">Verify the Email</string>
+    <string name="question_type">Types</string>
+    <string name="write_your_suggestion">Please enter your promble/advice</string>
+    <string name="nothing">Nothing</string>
+    <string name="crash">Flashback</string>
+    <string name="block">Stutters</string>
+    <string name="feature_question">Functional issues</string>
+    <string name="market_question">Market issues</string>
+    <string name="transaction_question">Trade issues</string>
+    <string name="self_selected_question">Favoritor issues</string>
+    <string name="login_question">Login issues</string>
+    <string name="information_question">资讯相关问题</string>
+    <string name="other_question">Other questions/suggestions </string>
+    <string name="please_input_your_contact_information">Phone number (Optional)</string>
+    <string name="please_select_question_type">Choose a type of problem</string>
+</resources>

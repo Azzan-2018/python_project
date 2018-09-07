@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_arrow">查看更多》</string>
+    <string name="deal_amount">成交量</string>
+    <string name="deal_amount_colon">成交量：</string>
+    <string name="market">市场</string>
+    <string name="to_top">置顶</string>
+    <string name="sort">排序</string>
+    <string name="edit_self_selected">编辑自选</string>
+    <string name="modify_successfully">修改成功</string>
+    <string name="buy">买</string>
+    <string name="sell">卖</string>
+    <string name="current_selected_s"  formatted="false">当前选择：%s</string>
+    <string name="up_arrow">\u2191</string>
+    <string name="down_arrow">\u2193</string>
+    <string name="latest_price">最新价</string>
+    <string name="change_per_in_24h">24h涨跌</string>
+    <string name="self_selected">自选</string>
+    <string name="optional_market">选择市场</string>
+    <string name="depute_order_new_deal">委托订单/最新成交</string>
+    <string name="price_s"  formatted="false">价格(%s)</string>
+    <string name="amount_s"  formatted="false">数量(%s)</string>
+
+    <string name="BTC">BTC</string>
+    <string name="ETH">ETH</string>
+    <string name="USDT">USDT</string>
+
+    <string name="buy_in">买入</string>
+    <string name="sell_out">卖出</string>
+    <string name="highest_colon">最高：</string>
+    <string name="lowest_colon">最低：</string>
+    <string name="today_open_colon">今开：</string>
+
+    <string name="fast_buy">快速买入</string>
+    <string name="fast_sell">快速卖出</string>
+    <string name="go_to_transaction_page">去交易页</string>
+
+    <string name="depute_order">委托订单</string>
+    <string name="new_deal">最新成交</string>
+    <string name="amount">数量</string>
+    <string name="price">价格</string>
+    <string name="time">时间</string>
+    <string name="deep">深度</string>
+    <string name="time_share">分时</string>
+    <string name="one_minute">1分</string>
+    <string name="five_minute">5分</string>
+    <string name="fifteen_minute">15分</string>
+    <string name="thirty_minute">30分</string>
+    <string name="one_hour">1小时</string>
+    <string name="four_hour">4小时</string>
+    <string name="daily_k_line">日线</string>
+    <string name="weekly_k_line">周线</string>
+    <string name="k_line_chart_transition">K线图转场动画</string>
+    <string name="open">开</string>
+    <string name="high">高</string>
+    <string name="k_line_close">收</string>
+    <string name="low">低</string>
+    <string name="range">幅</string>
+    <string name="vol">量</string>
+
+    <string name="add_favorite">加自选</string>
+    <string name="delete_favorite">删自选</string>
+</resources>

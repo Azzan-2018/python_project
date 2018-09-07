@@ -1,0 +1,16 @@
+{
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./android_language",
+        "-p",
+        "*test.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.pyTestArgs": [
+        "android_language"
+    ],
+    "python.unitTest.promptToConfigure": false
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="search">search</string>
+    <string name="withdraw">提现</string>
+    <string name="happy">happy</string>
+    <string name="hello">你好</string>
+</resources>

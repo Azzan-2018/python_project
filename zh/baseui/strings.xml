@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BaseUI</string>
+    <string name="loading">加载中...</string>
+    <string name="image_upload_failed">图片上传失败</string>
+    <string name="long_press_then_save_qr_code">长按保存二维码</string>
+    <string name="notice_ico_and_crowdfunding_address_not_be_supported">注意：平台暂不处理向众筹和ICO地址提现的申请</string>
+    <string name="day_withdraw_limit">日提现额度</string>
+    <string name="day_used">今日已用</string>
+    <string name="withdraw_min_quantity">最小提现数量</string>
+    <string name="limit_value_notice">限额说明</string>
+    <string name="please_input_money_password">请输入资金密码</string>
+    <string name="money_password">资金密码</string>
+    <string name="login_password">登录密码</string>
+    <string name="buy">买</string>
+    <string name="sell">卖</string>
+    <string name="local_image">本地图片</string>
+    <string name="revoke">撤销</string>
+    <string name="preview">预览</string>
+    <string name="finish_d_d"  formatted="false">完成（%d/%d）</string>
+    <string name="bank_card">银行卡</string>
+    <string name="alipay">支付宝</string>
+    <string name="wechat">微信</string>
+    <string name="estimate_s_f"  formatted="false">估值: %s %.2f</string>
+    <string name="start_time">开始时间</string>
+    <string name="end_time">结束时间</string>
+    <string name="start_time_must_less_than_end_time">开始时间应小于或等于结束时间</string>
+    <string name="end_time_must_more_than_start_time">结束时间应大于或等于开始时间</string>
+    <string name="login_at_once">立即登录</string>
+    <string name="camera_permission_must_be_granted">请开启相机权限</string>
+    <string name="gallery">相册</string>
+
+    <string name="trade">交易</string>
+    <string name="order_type">订单类型</string>
+    <string name="order_unit_price">订单单价</string>
+    <string name="order_amount">订单数量</string>
+    <string name="order_total">订单总额</string>
+
+    <string name="buy_in_confirm">买入确认</string>
+    <string name="sell_out_confirm">卖出确认</string>
+    <string name="trade_amount_must_bigger_than_f_at_once"  formatted="false">交易额必须大于%f</string>
+    <string name="balance_not_enough">余额不足</string>
+    <string name="search_country_area">搜索国家/地区</string>
+    <string name="search_coin">搜索数字币</string>
+    <string name="search_result">搜索结果：</string>
+    <string name="scan_note">请扫描二维码</string>
+    <string name="d_precision_number"  formatted="false">%d位小数</string>
+    <string name="done">完成</string>
+    <string name="cancel">取消</string>
+    <string name="has_canceled">已取消</string>
+    <string name="has_finished">已完成</string>
+    <string name="in_appeal">申诉中</string>
+    <string name="wait_pay_money">待付款</string>
+    <string name="wait_pay_coin">待出币</string>
+    <string name="ok">确定</string>
+    <string name="home_page">首页</string>
+    <string name="market_page">行情</string>
+    <string name="transaction_page">交易</string>
+    <string name="capital_page">资产</string>
+    <string name="commit">提交</string>
+    <string name="please_wait_a_moment">请稍后...</string>
+    <string name="add_recepit_money_account">添加收款方式</string>
+    <string name="please_input">请输入</string>
+    <string name="please_input_character_code">请输入图形验证码</string>
+    <string name="order_time">下单时间</string>
+    <string name="advertise_no">广告编号</string>
+    <string name="order_no">订单编号</string>
+    <string name="status">状态</string>
+    <string name="day_time">日期 / 时间</string>
+    <string name="control">操作</string>
+    <string name="amount">金额</string>
+    <string name="add_image_notice">添加图片说明（选填）</string>
+    <string name="balance">余额</string>
+    <string name="total_amount">总额</string>
+    <string name="total_amount_s"  formatted="false">总额(%s)</string>
+    <string name="usable_f_s"  formatted="false">可用：%.8f %s</string>
+    <string name="upload_image">上传图片</string>
+    <string name="upload">上传</string>
+    <string name="qr_code">二维码</string>
+    <string name="receive">收款</string>
+    <string name="not_empty">（必填）</string>
+    <string name="empty_enable">（选填）</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="press_and_bigger">点击放大</string>
+    <string name="hided">已隐藏</string>
+    <string name="limit_order">限价单</string>
+    <string name="market_order">市价单</string>
+    <string name="qr_code_save_failed">二维码保存失败</string>
+    <string name="qr_code_save_successfully">二维码保存成功</string>
+
+    <string name="price">价格</string>
+    <string name="query">查询</string>
+    <string name="selected_all">全选</string>
+    <string name="all_pictures">所有图片</string>
+    <string name="please_open_camera_permission">请开启相机权限</string>
+    <string name="take_photo">拍照</string>
+    <string name="pick_from_gallery">从相册中选择</string>
+    <string name="please_open_file_read_and_write_permission">请开启读文件权限</string>
+    <string name="add_accessory">添加附件</string>
+    <string name="sure">确认</string>
+    <string name="please_input_search_key">请输入关键字搜索</string>
+    <string name="photo_of_d_can_be_selected_at_one_time"  formatted="false">最多只能选择%d张图片</string>
+</resources>

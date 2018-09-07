@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="limited_price_depute">Limit order</string>
+    <string name="real_time_depute">Market order</string>
+    <string name="stop_loss">止盈止损</string>
+    <string name="buy_symbol">B</string>
+    <string name="sell_symbol">S</string>
+    <string name="buy_in">Buy</string>
+    <string name="canceled_this_order">the order is Cancelled</string>
+    <string name="sell_out">Sell</string>
+    <string formatted="false" name="price_s">Price(%s)</string>
+    <string formatted="false" name="amount_s">Value(%s)</string>
+    <string name="all">All</string>
+    <string name="only_buy_bill">Buy Only</string>
+    <string name="only_sell_bill">Sell Only</string>
+    <string name="clear">Clean</string>
+    <string name="depute_deal">Trd&amp;Ord</string>
+    <string name="today_deal">24h trades</string>
+    <string name="today_depute">24h orders</string>
+    <string name="history_depute">History Orders</string>
+    <string name="market_sp_time">Pair/Time</string>
+    <string name="average_price_sp_amount">Avg/Amt</string>
+    <string name="direction_sp_total_amount">Tot</string>
+    <string name="fee_sp_type">Fee/type</string>
+    <string name="depute_sp_average_price">Price/Avg</string>
+    <string name="depute_amount_sp_deal">Amt/Filled</string>
+
+    <string name="revoke_bill">Cancel</string>
+    <string name="depute_price">Price</string>
+    <string name="can_usable">Available</string>
+    <string name="history_deal">history trades</string>
+    <string name="status">Status</string>
+    <string name="are_u_sure_revoke_bill">Are you sure cancel?</string>
+    <string name="market">Market</string>
+    <string name="price">Price</string>
+    <string name="amount">Amount</string>
+    <string name="money_coin_otc">OTC</string>
+
+    <string name="deal_in_30_days">Orders in 30 days:</string>
+    <string name="coin_coin">Exchange</string>
+    <string name="watch_order">View Orders</string>
+    <string name="pay_code">Reference NO.</string>
+    <string name="please_sure_get_money">Please confirm receipt</string>
+    <string name="opponent_in_sure_get_money">Seller is confirming the payment</string>
+
+    <string formatted="false" name="total_d_records">A total of %d records</string>
+
+    <string name="otc_trade_buyer_warm">VC assets sole by seller on this transaction are protected by platform; please pay the transaction directly to seller's designated account. After payment is completed, please click "I HAVE PAID" button. When the seller confirms receipt, the platform will automatically transfer the VC assets for this transaction to your account.</string>
+    <string name="otc_trade_buyer_notice">Notice:if the number of orders is cancelled 3 times a day, the platform will prohibit you purchase.</string>
+    <string name="otc_trade_seller_warm">The VC assets you sell will be frozen by the platform. If you receive payment from the buyer, please click the "received payment" to pay for the VC assets</string>
+    <string name="otc_trade_seller_notice">Notice: information contained in Payment SMS alert is for reference only. For accurate details and to prevent financial losses from any fraud of text message,  please check on the designated payment account</string>
+
+    <string name="appeal">Appeal</string>
+    <string name="sure_get_money">confirm payment</string>
+    <string name="cancel_order">Cancel</string>
+    <string name="watch_appeal">View appeal</string>
+    <string name="appeal_in_process">Appealing</string>
+    <string name="appeal_finished">申诉完成</string>
+    <string name="i_has_payed">I have paid</string>
+    <string name="umpay">Paying</string>
+    <string name="canceled">Cancelled</string>
+    <string name="finished">completed</string>
+    <string name="day_depute_and_deal">24h orders/trades</string>
+
+    <string name="waiting_pay_money">UnPaid</string>
+    <string name="waiting_pay_coin">Paid</string>
+    <string name="please_pay">Please pay </string>
+    <string name="opponent_in_paying">Buyer is paying</string>
+    <string name="order_time">Transaction Date</string>
+    <string name="order_money">Transaction Amount</string>
+    <string name="order_finished">the order is finished</string>
+    <string name="seller">Buyer </string>
+    <string name="buyer">Sellor</string>
+    <string name="pay_verify">Confirm payment</string>
+    <string name="are_you_sure_pay_completed_the_account_would_be_hold_if_you_press_payed_button_under_no_payed_in_really">Are you sure that the payment has been completed? If you click the  "I have Paid" button without paying, you may face account freeze.</string>
+    <string name="if_you_has_payed_you_could_not_cancel_order_for_loss_money">If you have paid, please do not click "Cancel" to prevent financial losses.  Do you confirm the cancellation of the order? </string>
+    <string name="get_money_verify">Confirm receipt</string>
+    <string name="you_coin_will_be_transfered_to_the_buyer_after_yout_sure_get_the_payed_money">After clicking the "received payment", the system will transfer the VC assets in the order to each other. Please check your receipts carefully to prevent financial losses. </string>
+
+    <string name="transaction_price">price</string>
+    <string name="transaction_amount">Volume of transactions</string>
+    <string name="order_no">Order No.</string>
+    <string name="transaction_money_amount">Total</string>
+    <string name="transaction_money_amount_colon">Total:</string>
+    <string name="revoke_appeal">revoke appeal</string>
+
+    <string name="sure">OK</string>
+    <string name="reset">Reset</string>
+    <string name="current_manager_colon">Current processor:</string>
+    <string name="appeal_code">Appeal Code:</string>
+    <string name="buyer_operate">Buyer handing</string>
+    <string name="seller_operate">Seller handing</string>
+    <string name="append_description">add content</string>
+    <string name="appeal_detail">Appeal Details</string>
+    <string name="please_input_your_appeal_content">Please enter the content of the complaint </string>
+
+    <string name="order_appeal">Order Appeal</string>
+    <string name="apply_for_arbitration">Apply for arbitration</string>
+    <string name="are_u_sure_to_launch_arbitration">Are you sure to apply arbitration?</string>
+
+    <string name="all_the_pay">All Type</string>
+    <string name="unit_price">Price</string>
+    <string name="pay_type">Payment method</string>
+    <string name="bank_transfer">Bank Transfer</string>
+    <string name="ali_pay">Alipay</string>
+    <string name="wechat">weChat</string>
+    <string name="limit_value">Cash Limit</string>
+    <string name="order_no_in_limit_value">Order not in Limit Range</string>
+    <string name="limit_value_T">Limit(CNY)</string>
+    <string name="unpay">Paying</string>
+    <string name="payed">Paid</string>
+    <string name="merchant_selector">Filter</string>
+    <string name="i_think">I want to</string>
+    <string name="country_area">Country / Region </string>
+    <string name="really_money">Currency</string>
+    <string name="bank_card">Bank Card</string>
+    <string name="please_input_transaction_money_value">Please enter the amount of trade</string>
+    <string formatted="false" name="can_sell_out_f_at_once">Maximum saleable %f</string>
+    <string formatted="false" name="can_sell_out_s_at_once">Maximum saleable %s</string>
+    <string formatted="false" name="can_buy_in_f_at_once">Maximum buyable %f</string>
+    <string formatted="false" name="can_buy_in_s_at_once">Maximum buyable %s</string>
+
+    <string formatted="false" name="dd_hh_mm_ss">%dD%dH%dM%dS</string>
+    <string formatted="false" name="hh_mm_ss">%dH%dM%dS</string>
+    <string formatted="false" name="mm_ss">%dM%dS</string>
+    <string name="deal_amount">Please pay the order</string>
+
+    <string name="please_pay_for_this_successful_deal_at_now">Please pay the order</string>
+    <string name="the_opponent_sure_receive_money">Seller is confirming the payment</string>
+    <string name="the_opponent_discard_the_order">Canclled by The other party</string>
+    <string name="you_discard_the_order">Canclled by Me</string>
+    <string name="order_is_finished">Order completed</string>
+    <string name="the_order_in_arbitration_for_you_turn">Appeal-arbitrating</string>
+    <string name="the_order_in_arbitration_for_the_opponent_turn">Appeal-arbitrating</string>
+    <string name="waiting_for_pay_money_about_the_successful_order">Buyer is paying</string>
+
+</resources>

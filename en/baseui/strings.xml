@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BaseUI</string>
+    <string name="loading">loading...</string>
+    <string name="image_upload_failed">Upload photo failed</string>
+    <string name="long_press_then_save_qr_code">long press save the picture of QR code</string>
+    <string name="notice_ico_and_crowdfunding_address_not_be_supported">Do not withdrawal directly to a crowdfund or ICO.</string>
+    <string name="day_withdraw_limit">Daily withdraw limit</string>
+    <string name="day_used">In Use:</string>
+    <string name="withdraw_min_quantity">Minimum withdrawal</string>
+    <string name="limit_value_notice">description</string>
+    <string name="please_input_money_password">Please enter Money Password</string>
+    <string name="money_password">Capital Password</string>
+    <string name="login_password">Login Password</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="local_image">Local Photo</string>
+    <string name="revoke">cancel</string>
+    <string name="preview">preview</string>
+    <string formatted="false" name="finish_d_d">Done(%d/%d)</string>
+    <string name="bank_card">Bank Card</string>
+    <string name="alipay">Alipay</string>
+    <string name="wechat">weChat</string>
+    <string formatted="false" name="estimate_s_f">Estimate: %s %.2f</string>
+    <string name="start_time">Start time</string>
+    <string name="end_time">End time</string>
+    <string name="start_time_must_less_than_end_time">Start time should be less than or equal to the end time</string>
+    <string name="end_time_must_more_than_start_time">End time should be greater than or equal to start time</string>
+    <string name="login_at_once">login now</string>
+    <string name="camera_permission_must_be_granted">Please turn on camera permissions</string>
+    <string name="gallery">Album</string>
+
+    <string name="trade">trade</string>
+    <string name="order_type">Order Type</string>
+    <string name="order_unit_price">Order U-Price</string>
+    <string name="order_amount">Total Number</string>
+    <string name="order_total">Order Total</string>
+
+    <string name="buy_in_confirm">Confirm the buy order</string>
+    <string name="sell_out_confirm">Confirm the sell order</string>
+    <string formatted="false" name="trade_amount_must_bigger_than_f_at_once">The transaction amount must be greater than %f</string>
+    <string name="balance_not_enough">Insufficient balance</string>
+    <string name="search_country_area">Search Country/Area</string>
+    <string name="search_coin">search a coin</string>
+    <string name="search_result">Search Result:</string>
+    <string name="scan_note">Please scan QR code</string>
+    <string formatted="false" name="d_precision_number">%d decimals</string>
+    <string name="done">completed</string>
+    <string name="cancel">Cancel</string>
+    <string name="has_canceled">Cancelled</string>
+    <string name="has_finished">completed</string>
+    <string name="in_appeal">Appealing</string>
+    <string name="wait_pay_money">UnPaid</string>
+    <string name="wait_pay_coin">Paid</string>
+    <string name="ok">Confirm</string>
+    <string name="home_page">Home</string>
+    <string name="market_page">Markets</string>
+    <string name="transaction_page">trade</string>
+    <string name="capital_page">Funds</string>
+    <string name="commit">Submit</string>
+    <string name="please_wait_a_moment">waiting</string>
+    <string name="add_recepit_money_account">Add payment type</string>
+    <string name="please_input">please enter</string>
+    <string name="please_input_character_code">Please enter Captcha</string>
+    <string name="order_time">Order Time</string>
+    <string name="advertise_no">Ad No.</string>
+    <string name="order_no">Order No.</string>
+    <string name="status">Status</string>
+    <string name="day_time">Date/Time</string>
+    <string name="control">Operation</string>
+    <string name="amount">Amount</string>
+    <string name="add_image_notice">Add Photo(Optional)</string>
+    <string name="balance">Balance</string>
+    <string name="total_amount">Total</string>
+    <string formatted="false" name="total_amount_s">Total(%s)</string>
+    <string formatted="false" name="usable_f_s">Available: %.8f %s</string>
+    <string name="upload_image">Upload photo</string>
+    <string name="upload">Upload</string>
+    <string name="qr_code">QR code</string>
+    <string name="receive">receipt</string>
+    <string name="not_empty"> (Required)</string>
+    <string name="empty_enable"> (Optional)</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="press_and_bigger">Click to enlarge</string>
+    <string name="hided">hided</string>
+    <string name="limit_order">Limit Order</string>
+    <string name="market_order">Market Order</string>
+    <string name="qr_code_save_failed">QR code failed to save</string>
+    <string name="qr_code_save_successfully">The QR code is saved successfully.</string>
+
+    <string name="price">Price</string>
+    <string name="query">Search</string>
+    <string name="selected_all">select all</string>
+    <string name="all_pictures">All Photo</string>
+    <string name="please_open_camera_permission">Please turn on camera permissions</string>
+    <string name="take_photo">Camera</string>
+    <string name="pick_from_gallery">Choose from Album</string>
+    <string name="please_open_file_read_and_write_permission">Please turn on Read SDK permissions</string>
+    <string name="add_accessory">Add attachment</string>
+    <string name="sure">OK</string>
+    <string name="please_input_search_key">Please enter search key</string>
+    <string formatted="false" name="photo_of_d_can_be_selected_at_one_time">Can only select up to %d images</string>
+</resources>

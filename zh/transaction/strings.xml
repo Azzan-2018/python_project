@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="limited_price_depute">限价委托</string>
+    <string name="real_time_depute">市价委托</string>
+    <string name="stop_loss">止盈止损</string>
+    <string name="buy_symbol">B</string>
+    <string name="sell_symbol">S</string>
+    <string name="buy_in">买入</string>
+    <string name="canceled_this_order">已取消这笔订单</string>
+    <string name="sell_out">卖出</string>
+    <string name="price_s" formatted="false">价格(%s)</string>
+    <string name="amount_s" formatted="false">数量(%s)</string>
+    <string name="all">全部</string>
+    <string name="only_buy_bill">只看买单</string>
+    <string name="only_sell_bill">只看卖单</string>
+    <string name="clear">清空</string>
+    <string name="depute_deal">委托成交</string>
+    <string name="today_deal">当日成交</string>
+    <string name="today_depute">当日委托</string>
+    <string name="history_depute">历史委托</string>
+    <string name="market_sp_time">市场/时间</string>
+    <string name="average_price_sp_amount">均价/数量</string>
+    <string name="direction_sp_total_amount">方向/总额</string>
+    <string name="fee_sp_type">手续费/类型</string>
+    <string name="depute_sp_average_price">委托/均价</string>
+    <string name="depute_amount_sp_deal">委量/成交</string>
+
+    <string name="revoke_bill">撤单</string>
+    <string name="depute_price">委托价</string>
+    <string name="can_usable">可用</string>
+    <string name="history_deal">历史成交</string>
+    <string name="status">状态</string>
+    <string name="are_u_sure_revoke_bill">您确定撤单吗？</string>
+    <string name="market">市场</string>
+    <string name="price">价格</string>
+    <string name="amount">数量</string>
+    <string name="money_coin_otc">法币OTC</string>
+
+    <string name="deal_in_30_days">30日成交：</string>
+    <string name="coin_coin">币币</string>
+    <string name="watch_order">查看订单</string>
+    <string name="pay_code">付款参考号</string>
+    <string name="please_sure_get_money">请确认收款</string>
+    <string name="opponent_in_sure_get_money">对方确认收款中</string>
+
+    <string name="total_d_records"  formatted="false">共 %d 条记录</string>
+
+    <string name="otc_trade_buyer_warm">1.本次交易中的数字币资产将由平台托管,请直接支付交易款项到对方指定的收款账户。\n2.完成付款后，请务必点击“我已付款”。 \n3.对方确认收款后，平台将自动划转本次交易的数字币资产到您的账户。</string>
+    <string name="otc_trade_buyer_notice">注意：如果当日取消订单达到3次，系统将限制您的买入权限。</string>
+    <string name="otc_trade_seller_warm">您出售的数字资产将由平台统一托管冻结。请在收到对方付款后，点击“确认收款”支付数字币资产。</string>
+    <string name="otc_trade_seller_notice">注意：切勿轻易相信到账短信，务必登录官方平台查看实际到款情况，避免因收到诈骗短信而导致损失数字币资产。</string>
+
+    <string name="appeal">申诉</string>
+    <string name="sure_get_money">确认收款</string>
+    <string name="cancel_order">取消订单</string>
+    <string name="watch_appeal">查看申诉</string>
+    <string name="appeal_in_process">申诉中</string>
+    <string name="appeal_finished">申诉完成</string>
+    <string name="i_has_payed">我已付款</string>
+    <string name="umpay">未付款</string>
+    <string name="canceled">已取消</string>
+    <string name="finished">已完成</string>
+    <string name="day_depute_and_deal">当日委托 / 成交</string>
+
+    <string name="waiting_pay_money">待付款</string>
+    <string name="waiting_pay_coin">待放币</string>
+    <string name="please_pay">请支付</string>
+    <string name="opponent_in_paying">对方支付中</string>
+    <string name="order_time">订单时间</string>
+    <string name="order_money">订单金额</string>
+    <string name="order_finished">订单已完成！</string>
+    <string name="seller">卖方</string>
+    <string name="buyer">买方</string>
+    <string name="pay_verify">支付确认</string>
+    <string name="are_you_sure_pay_completed_the_account_would_be_hold_if_you_press_payed_button_under_no_payed_in_really">您确定已经付款完成？如果在没有支付情况下却点击“已支付”按钮的话，将可能面临帐号冻结的处理。</string>
+    <string name="if_you_has_payed_you_could_not_cancel_order_for_loss_money">如果您已经付款，请不要点击“取消”以免造成财产损失！\n 您确认取消订单？</string>
+    <string name="get_money_verify">收款确认</string>
+    <string name="you_coin_will_be_transfered_to_the_buyer_after_yout_sure_get_the_payed_money">点击“确认收款”后系统将划转订单包含的数字币给对方。请仔细核对您的收款，谨防财产损失！</string>
+
+    <string name="transaction_price">交易价格</string>
+    <string name="transaction_amount">交易数量</string>
+    <string name="order_no">订单编号</string>
+    <string name="transaction_money_amount">交易金额</string>
+    <string name="transaction_money_amount_colon">交易金额：</string>
+    <string name="revoke_appeal">撤消申诉</string>
+
+    <string name="sure">确认</string>
+    <string name="reset">重置</string>
+    <string name="current_manager_colon">当前处理人：</string>
+    <string name="appeal_code">申诉代码：</string>
+    <string name="buyer_operate">买家处理</string>
+    <string name="seller_operate">卖家处理</string>
+    <string name="append_description">追加说明</string>
+    <string name="appeal_detail">申诉详情</string>
+    <string name="please_input_your_appeal_content">请输入您的申诉内容...</string>
+
+    <string name="order_appeal">订单申诉</string>
+    <string name="apply_for_arbitration">申请仲裁</string>
+    <string name="are_u_sure_to_launch_arbitration">您确定发起仲裁？</string>
+
+    <string name="all_the_pay">所有方式</string>
+    <string name="unit_price">单价</string>
+    <string name="pay_type">支付方式</string>
+    <string name="bank_transfer">银行转账</string>
+    <string name="ali_pay">支付宝</string>
+    <string name="wechat">微信</string>
+    <string name="limit_value">限额</string>
+    <string name="order_no_in_limit_value">订单不在限额内</string>
+    <string name="limit_value_T">限额(CNY)</string>
+    <string name="unpay">未付款</string>
+    <string name="payed">已付款</string>
+    <string name="merchant_selector">商户筛选</string>
+    <string name="i_think">我想</string>
+    <string name="country_area">国家/地区</string>
+    <string name="really_money">法币</string>
+    <string name="bank_card">银行卡</string>
+    <string name="please_input_transaction_money_value">请输入交易金额</string>
+    <string name="can_sell_out_f_at_once" formatted="false">最大可卖%f</string>
+    <string name="can_sell_out_s_at_once" formatted="false">最大可卖%s</string>
+    <string name="can_buy_in_f_at_once" formatted="false">最大可买%f</string>
+    <string name="can_buy_in_s_at_once" formatted="false">最大可买%s</string>
+
+    <string name="dd_hh_mm_ss" formatted="false">%d天%d小时%d分钟%d秒</string>
+    <string name="hh_mm_ss" formatted="false">%d小时%d分钟%d秒</string>
+    <string name="mm_ss" formatted="false">%d分钟%d秒</string>
+    <string name="deal_amount">成交数量</string>
+
+    <string name="please_pay_for_this_successful_deal_at_now">您已成功下单，请尽快支付</string>
+    <string name="the_opponent_sure_receive_money">对方确认收款中</string>
+    <string name="the_opponent_discard_the_order">对方已取消订单</string>
+    <string name="you_discard_the_order">您已取消订单</string>
+    <string name="order_is_finished">订单已完成</string>
+    <string name="the_order_in_arbitration_for_you_turn">申诉中（仲裁），当前处理人为您</string>
+    <string name="the_order_in_arbitration_for_the_opponent_turn">申诉中（仲裁），当前处理人为对方</string>
+    <string name="waiting_for_pay_money_about_the_successful_order">您已成功下单，等待对方支付</string>
+
+</resources>

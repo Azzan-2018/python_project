@@ -2,9 +2,14 @@
 <resources>
 
     <string name="error_incorrect_password">Enter password does not conform the rules</string>
-    <string name="copy_right">Copyright @2018 泰沃</string>
+    <string name="copy_right">版权所有：Copyright @2018 泰沃</string>
     <string name="tai_wo">泰沃</string>
-    <string name="me_page">My</string>
+
+    <string name="login_successfully">Login successfully</string>
+    <string name="register_successfully">Register successfully</string>
+    <string name="verifying">verifying</string>
+
+    <string name="me_page">Account</string>
     <string name="u_are_not_merchant">You are not a Merchant</string>
     <string name="undo_order">Unprocessed orders</string>
     <string name="modify">Modify</string>
@@ -87,6 +92,7 @@
     <string name="login_out">quit/log out</string>
 
     <string name="login_at_now">login now</string>
+    <string name="account_bind_successfully">Binding success</string>
 
     <string name="i_agree_with_ztjk">I Agree</string>
     <string name="service_contract"> terms and Condition</string>
@@ -102,7 +108,10 @@
 
     <string name="has_register_T">Already have an account?</string>
     <string name="please_read_service_contract">Terms and condition</string>
-    <string name="please_input_valid_password">Please input the correct password</string>
+    <string name="please_input_valid_password">8~12 bits contain numbers and letters. </string>
+    <string name="please_input_6_number_password">Please enter a 6 digit password</string>
+    <string name="new_password_invalid">Please enter a new password that contains 8~12 numbers and letters</string>
+    <string name="old_password_invalid">Old password incorrect</string>
 
     <string name="we_send_a_verify_message_to_your_email_please_input_dynamic_code">Please enter 6 digit code sent to your email</string>
     <string name="verify_your_email">Verify your Email</string>
@@ -117,9 +126,12 @@
     <string name="please_input_login_email">Please enter the email</string>
     <string name="please_input_login_password">Please enter the Password</string>
 
+    <string name="invalid_email_address">The account does not exist</string>
+    <string name="invalid_phone_number">The account does not exist</string>
+
     <string name="please_input_you_email_address">please enter you email</string>
     <string name="please_input_you_login_password">please enter you login password</string>
-    <string name="please_input_you_recommender_id">Referal ID (Optional)</string>
+    <string name="please_input_you_recommender_id">referal ID(Optional)</string>
 
     <string name="commit">Submit</string>
     <string name="email">Email</string>
@@ -137,8 +149,7 @@
     <string name="no_verify">Unverified</string>
     <string name="has_verify">verified</string>
 
-    <string name="new_password_invalid">The new password entered does not match the format</string>
-    <string name="old_password_invalid">The old password entered does not match the format</string>
+
     <string name="please_sure_the_input_new_password_are_same">The passwords you entered must be the same</string>
 
     <string name="merchant">Merchant Corner</string>
@@ -226,7 +237,7 @@
     <string name="transaction_question">Trade issues</string>
     <string name="self_selected_question">Favoritor issues</string>
     <string name="login_question">Login issues</string>
-    <string name="information_question">资讯相关问题</string>
+    
     <string name="other_question">Other questions/suggestions </string>
     <string name="please_input_your_contact_information">Phone number (Optional)</string>
     <string name="please_select_question_type">Choose a type of problem</string>

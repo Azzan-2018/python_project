@@ -8,7 +8,8 @@ from XMLHelper import *
 def main():
     keyValMap = {}
     # for path in ["file.xls","file2.xls"]:  TEST
-    for path in ["各场景提示内容.xlsx", "英文版效果图文字内容.xlsx", "页面跳转及相关提示语内容.xlsx", "词条补充1.xls","自翻译词条.xlsx"]:
+    # for path in ["各场景提示内容.xlsx", "英文版效果图文字内容.xlsx", "页面跳转及相关提示语内容.xlsx", "词条补充1.xls","自翻译词条.xlsx"]:
+    for path in ["词条集合.xlsx"]:
         keyValMap = dict(keyValMap, **(XLSHelper(path).getKeyValMap()))
         # tempMap = XLSHelper(path).getKeyValMap()
         # for key in tempMap.keys():

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">BaseUI</string>
+    <string name="please_completed_identify_verify_first">请先完成实名认证</string>
+    <string name="identify_in_checking_please_wait_for_amoment">身份认证审核中，请耐心等待</string>
+    <string name="please_set_money_password_first">请设置您的资金密码</string>
+    <string name="plsease_completed_setting_as_below">请完成以下设置</string>
+    <string name="set">设置</string>
+    <string name="has_setting">已设置</string>
+    <string name="recepit_and_pay_money_account">收/付款方式</string>
+    <string name="verify">认证</string>
     <string name="loading">加载中...</string>
     <string name="image_upload_failed">图片上传失败</string>
     <string name="long_press_then_save_qr_code">长按保存二维码</string>
@@ -29,7 +37,10 @@
     <string name="login_at_once">立即登录</string>
     <string name="camera_permission_must_be_granted">请开启相机权限</string>
     <string name="gallery">相册</string>
-
+    <string name="no_colon">编号：</string>
+    <string name="unit_price_colon">单价：</string>
+    <string name="adv_amount">广告数量</string>
+    <string name="finish_amount">完成数量</string>
     <string name="trade">交易</string>
     <string name="order_type">订单类型</string>
     <string name="order_unit_price">订单单价</string>

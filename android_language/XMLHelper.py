@@ -71,7 +71,7 @@ class XMLHelper:
             # print ("val ----")
             # print(kv_map.get(key))
             if text:
-                text.replace("'s","\'s")
+                text.replace("'","\'")
                 self._usableMap[key] = text
                 node.text = text
             else:

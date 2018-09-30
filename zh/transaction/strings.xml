@@ -25,6 +25,8 @@
     <string name="depute_sp_average_price">委托/均价</string>
     <string name="depute_amount_sp_deal">委量/成交</string>
 
+    <string name="please_input_coin_number">请输入数字币数量</string>
+
     <string name="revoke_bill">撤单</string>
     <string name="depute_price">委托价</string>
     <string name="can_usable">可用</string>
@@ -55,7 +57,6 @@
     <string name="cancel_order">取消订单</string>
     <string name="watch_appeal">查看申诉</string>
     <string name="appeal_in_process">申诉中</string>
-    <string name="appeal_finished">申诉完成</string>
     <string name="i_has_payed">我已付款</string>
     <string name="umpay">未付款</string>
     <string name="canceled">已取消</string>
@@ -86,10 +87,7 @@
 
     <string name="sure">确认</string>
     <string name="reset">重置</string>
-    <string name="current_manager_colon">当前处理人：</string>
     <string name="appeal_code">申诉代码：</string>
-    <string name="buyer_operate">买家处理</string>
-    <string name="seller_operate">卖家处理</string>
     <string name="append_description">追加说明</string>
     <string name="appeal_detail">申诉详情</string>
     <string name="please_input_your_appeal_content">请输入您的申诉内容...</string>

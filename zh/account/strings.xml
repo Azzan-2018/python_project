@@ -2,9 +2,14 @@
 <resources>
 
     <string name="error_incorrect_password">密码格式不正确</string>
-    <string name="copy_right">Copyright @2018 泰沃</string>
+    <string name="copy_right">版权所有：Copyright @2018 泰沃</string>
     <string name="tai_wo">泰沃</string>
-    <string name="me_page">我的</string>
+
+    <string name="login_successfully">登录成功</string>
+    <string name="register_successfully">注册成功</string>
+    <string name="verifying">认证中</string>
+
+    <string name="me_page">账户</string>
     <string name="u_are_not_merchant">您还不是商户</string>
     <string name="undo_order">待处理订单</string>
     <string name="modify">修改</string>
@@ -87,11 +92,12 @@
     <string name="login_out">退出</string>
 
     <string name="login_at_now">立即登录</string>
+    <string name="account_bind_successfully">账号绑定成功</string>
 
     <string name="i_agree_with_ztjk">我同意平台</string>
     <string name="service_contract">《服务协议》</string>
     <string name="reset_password">重置密码</string>
-    <string name="forget_password_T">忘记密码？</string>
+    <string name="forget_password_T">忘记密码?</string>
     <string name="cancel">取消</string>
     <string name="set_new_password">设置新密码</string>
     <string name="register_now">立即注册</string>
@@ -102,7 +108,10 @@
 
     <string name="has_register_T">已经注册？</string>
     <string name="please_read_service_contract">请阅读服务协议</string>
-    <string name="please_input_valid_password">请输入正确的密码</string>
+    <string name="please_input_valid_password">请输入8~12位同时包含数字和字母的密码</string>
+    <string name="please_input_6_number_password">请输入6位数字密码</string>
+    <string name="new_password_invalid">请输入8~12位包含数字和字母组合的新密码</string>
+    <string name="old_password_invalid">旧密码格式不正确</string>
 
     <string name="we_send_a_verify_message_to_your_email_please_input_dynamic_code">我们向您的电子邮箱发送了一个验证信息，请输入验证码</string>
     <string name="verify_your_email">验证您的电子邮件</string>
@@ -117,9 +126,12 @@
     <string name="please_input_login_email">请输入登录邮箱</string>
     <string name="please_input_login_password">请输入登录密码</string>
 
+    <string name="invalid_email_address">邮箱地址不正确</string>
+    <string name="invalid_phone_number">手机号码不正确</string>
+
     <string name="please_input_you_email_address">请输入您的邮箱地址</string>
     <string name="please_input_you_login_password">请输入您的登录密码</string>
-    <string name="please_input_you_recommender_id">请输入推荐人ID(选填)</string>
+    <string name="please_input_you_recommender_id">推荐人ID（选填）</string>
 
     <string name="commit">提交</string>
     <string name="email">邮箱</string>
@@ -137,8 +149,7 @@
     <string name="no_verify">未认证</string>
     <string name="has_verify">已认证</string>
 
-    <string name="new_password_invalid">新密码格式错误</string>
-    <string name="old_password_invalid">旧密码格式错误</string>
+
     <string name="please_sure_the_input_new_password_are_same">两次新密码不一致</string>
 
     <string name="merchant">商户专区</string>
@@ -226,7 +237,7 @@
     <string name="transaction_question">交易相关问题</string>
     <string name="self_selected_question">自选相关问题</string>
     <string name="login_question">登录相关问题</string>
-    <string name="information_question">资讯相关问题</string>
+    <!--<string name="information_question">资讯相关问题</string>-->
     <string name="other_question">其他问题/建议</string>
     <string name="please_input_your_contact_information">请输入您的联系电话（选填）</string>
     <string name="please_select_question_type">请选择问题类型</string>

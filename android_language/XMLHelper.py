@@ -8,13 +8,12 @@ import shutil
 class XMLHelper:
 
     _usableMap = {}
-    _unTranslateMap={}
+    _unTranslateMap = {}
 
     def __init__(self, inXmlPath):
         self._inXmlPath = inXmlPath
         self._usableMap = {}
-        self._unTranslateMap={}
-
+        self._unTranslateMap = {}
 
     def read_xml(self):
         '''读取并解析xml文件
@@ -71,11 +70,11 @@ class XMLHelper:
             # print ("val ----")
             # print(kv_map.get(key))
             if text:
-                text.replace("'","\'")
+                text.replace("'", "\'")
                 self._usableMap[key] = text
                 node.text = text
             else:
-                self._unTranslateMap[node.text]=""
+                self._unTranslateMap[node.text] = ""
             # for key in kv_map:
             #     if is_delete:
             #         if key in node.attrib:
@@ -138,13 +137,19 @@ class XMLHelper:
         if self._inXmlPath.find("zh", 0) > -1 :
             path = self._inXmlPath.replace("zh", "en")
         else:
-            path = "dest/" +self._inXmlPath
+            path = "dest/" + self._inXmlPath
         dirPath = os.path.dirname(path)
         if os.path.isdir(dirPath):
-            shutil.rmtree(dirPath)    #递归删除文件夹
+            shutil.rmtree(dirPath)  # 递归删除文件夹
         os.makedirs(os.path.dirname(path))
         return path
     
+    def getKeyValueMap(self):
+        nodeList = self.find_nodes(self.read_xml(), "string")
+        mapVal = {}
+        for node in nodeList:
+            mapVal[node.tag] = node.text
+        return mapVal
 
     def translate(self, keyVal):
         tree = self.read_xml()

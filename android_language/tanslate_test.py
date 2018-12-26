@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import xdrlib
 import sys
-from XLSHelper import *
-from XMLHelper import *
+from XMLHelper import XMLHelper
+from XLSHelper import XLSHelper
 
 
 def main():

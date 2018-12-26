@@ -1,9 +1,9 @@
 # import xdrlib
 # import sys
 import xlrd
-from xlwt import *
+from xlwt import Workbook
 
-
+ 
 class XLSHelper:
 
     def __init__(self, xlsPath):
@@ -31,7 +31,6 @@ class XLSHelper:
                 keyValMap[row[2]] = row[3]
         return keyValMap
 
-
     def write_map(self, table, keyValMap):
         keys = keyValMap.keys()
         position = 0
@@ -40,16 +39,16 @@ class XLSHelper:
             table.write(position, 0, key)
             table.write(position, 1, keyValMap.get(key))
 
-    def write_xls(self,noUsekeyValMap,unTanslateMap):
-        file = Workbook(encoding = 'utf-8')
-        #指定file以utf-8的格式打开
+    def write_xls(self, noUsekeyValMap, unTanslateMap):
+        file = Workbook(encoding='utf-8')
+        # 指定file以utf-8的格式打开
         self.write_map(file.add_sheet("没有翻译"), unTanslateMap)
         self.write_map(file.add_sheet('没用翻译'), noUsekeyValMap)
         file.save("词条.xls")
 
-    def generate_language_xls(self,languageMap,unTanslateMap):
-            file = Workbook(encoding = 'utf-8')
-        #指定file以utf-8的格式打开
+    def generate_language_xls(self, languageMap, unTanslateMap):
+        file = Workbook(encoding='utf-8')
+        # 指定file以utf-8的格式打开
         self.write_map(file.add_sheet("未重叠翻译"), languageMap)
         self.write_map(file.add_sheet('重复翻译'), unTanslateMap)
         file.save("词条重复扫描.xls")
@@ -58,10 +57,10 @@ class XLSHelper:
         return self.excel_table_byindex()
 
 
-def main():
-    keyValMap = XLSHelper("file.xls").getKeyValMap()
-    print(keyValMap)
+# def main():
+#     keyValMap = XLSHelper("file.xls").getKeyValMap()
+#     print(keyValMap)
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()

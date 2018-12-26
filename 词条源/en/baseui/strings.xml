@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="app_name">BaseUI</string>
+    <string name="market_depute">market</string>
+    <string name="limit_depute">limit</string>
+    <string formatted="false" name="price_s">Price(%s)</string>
+    <string formatted="false" name="amount_s">Amount(%s)</string>
+    <string name="please_input_transaction_money_value">Please enter the amount of trade</string>
+    <string name="please_input_coin_number">Please input the number of VC</string>
+    <string name="please_input_price">Please input price</string>
     <string name="please_completed_identify_verify_first">Please complete the identity verification first</string>
     <string name="identify_in_checking_please_wait_for_amoment">verifying,please waitting…</string>
     <string name="please_set_money_password_first">Please set your capital password</string>
@@ -11,13 +18,13 @@
     <string name="verify">verify</string>
     <string name="loading">loading...</string>
     <string name="image_upload_failed">Upload photo failed</string>
-    <string name="long_press_then_save_qr_code">long press save the picture of QR code</string>
+    <string name="long_press_then_save_qr_code">Long press save the picture of QR code</string>
     <string name="notice_ico_and_crowdfunding_address_not_be_supported">Do not withdrawal directly to a crowdfund or ICO.</string>
     <string name="day_withdraw_limit">Daily withdraw limit</string>
     <string name="day_used">In Use:</string>
     <string name="withdraw_min_quantity">Minimum withdrawal:</string>
     <string name="limit_value_notice">description</string>
-    <string name="please_input_money_password">Please enter Money Password</string>
+    <string name="please_input_money_password">Please enter Capital Password</string>
     <string name="money_password">Capital Password</string>
     <string name="login_password">Login Password</string>
     <string name="buy">Buy</string>
@@ -29,6 +36,13 @@
     <string name="bank_card">Bank Card</string>
     <string name="alipay">Alipay</string>
     <string name="wechat">WeChat</string>
+    <string name="reset">Reset</string>
+    <string name="unit_price">Price</string>
+    <string name="all">All</string>
+    <string name="buy_in">Buy</string>
+    <string name="sell_out">Sell</string>
+    <string name="deal_amount">volume</string>
+    <string name="modify_successfully">Successfully modified</string>
     <string formatted="false" name="estimate_s_f">Estimate: %s %.2f</string>
     <string name="start_time">Start time</string>
     <string name="end_time">End time</string>
@@ -37,15 +51,15 @@
     <string name="login_at_once">login now</string>
     <string name="camera_permission_must_be_granted">Please turn on camera permissions</string>
     <string name="gallery">Album</string>
-    <string name="no_colon">No. :</string>
+    <string name="no_colon">No.:</string>
     <string name="unit_price_colon">Price:</string>
     <string name="adv_amount">VC Amount</string>
     <string name="finish_amount">Filled</string>
-    <string name="trade">trade</string>
-    <string name="order_type">Order Type</string>
-    <string name="order_unit_price">Order U-Price</string>
-    <string name="order_amount">Total Number</string>
-    <string name="order_total">Order Total</string>
+    <string name="trade">Pair</string>
+    <string name="order_type">Type</string>
+    <string name="order_unit_price">Price</string>
+    <string name="order_amount">Amount</string>
+    <string name="order_total">Total</string>
 
     <string name="buy_in_confirm">Confirm the buy order</string>
     <string name="sell_out_confirm">Confirm the sell order</string>
@@ -56,21 +70,29 @@
     <string name="search_result">Search Result:</string>
     <string name="scan_note">Please scan QR code</string>
     <string formatted="false" name="d_precision_number">%d decimals</string>
+    <string name="digits_precision_number">digits</string>
     <string name="done">completed</string>
     <string name="cancel">Cancel</string>
     <string name="has_canceled">Cancelled</string>
-    <string name="has_finished">completed</string>
+    <string name="has_finished">Completed</string>
     <string name="in_appeal">Appealing</string>
     <string name="wait_pay_money">UnPaid</string>
+    <string name="time">Time</string>
+    <string name="latest_price">Latest Price</string>
     <string name="wait_pay_coin">Paid</string>
     <string name="ok">Confirm</string>
+    <string name="one_day">1D</string>
+    <string name="three_day">3D</string>
+    <string name="one_week">1W</string>
+    <string name="one_month">1M</string>
+    <string name="market">Market</string>
     <string name="home_page">Home</string>
     <string name="market_page">Markets</string>
     <string name="transaction_page">trade</string>
     <string name="capital_page">Funds</string>
     <string name="commit">Submit</string>
     <string name="please_wait_a_moment">waiting</string>
-    <string name="add_recepit_money_account">Add payment type</string>
+    <string name="add_receipt_money_account">Add payment type</string>
     <string name="please_input">please enter</string>
     <string name="please_input_character_code">Please enter Captcha</string>
     <string name="order_time">Order Time</string>
@@ -81,10 +103,11 @@
     <string name="control">Operation</string>
     <string name="amount">Amount</string>
     <string name="add_image_notice">Add Photo(Optional)</string>
+    <string name="not_set">not set</string>
     <string name="balance">Balance</string>
     <string name="total_amount">Total</string>
     <string formatted="false" name="total_amount_s">Total(%s)</string>
-    <string formatted="false" name="usable_f_s">Available: %.8f %s</string>
+    <string formatted="false" name="usable_f">Available: %.8f</string>
     <string name="upload_image">Upload photo</string>
     <string name="upload">Upload</string>
     <string name="qr_code">QR code</string>
@@ -99,7 +122,12 @@
     <string name="market_order">Market Order</string>
     <string name="qr_code_save_failed">QR code failed to save</string>
     <string name="qr_code_save_successfully">The QR code is saved successfully.</string>
-
+    <string name="i_know_not_remind_again">No longer reminding</string>
+    <string name="login">Login</string>
+    <string name="no_data">No data</string>
+    <string name="refresh">refresh</string>
+    <string name="login_now">Login now</string>
+    <string name="no_network">No network</string>
     <string name="price">Price</string>
     <string name="query">Search</string>
     <string name="selected_all">select all</string>

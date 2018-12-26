@@ -148,7 +148,7 @@ class XMLHelper:
         nodeList = self.find_nodes(self.read_xml(), "string")
         mapVal = {}
         for node in nodeList:
-            mapVal[node.tag] = node.text
+            mapVal[node.get("name")] = node.text
         return mapVal
 
     def translate(self, keyVal):
@@ -168,9 +168,9 @@ class XMLHelper:
         self.write_xml(tree, self.getPathName())
 
 
-def main():
-    XMLHelper("in.xml").translate({})
+# def main():
+#     XMLHelper("in.xml").translate({})
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()

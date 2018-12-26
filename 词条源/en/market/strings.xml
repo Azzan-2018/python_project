@@ -1,45 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="more_arrow">More》</string>
-    <string name="deal_amount">volume </string>
-    <string name="deal_amount_colon">volume:</string>
-    <string name="market">Market</string>
+    <string name="more_arrow">More>></string>
+
+    <string name="deal_amount_colon">Volume:</string>
     <string name="to_top">To Top</string>
     <string name="sort">sort</string>
     <string name="edit_self_selected">Edit Favorite</string>
-    <string name="modify_successfully">Successfully modified</string>
-    <string name="buy">Buy</string>
-    <string name="sell">Sell</string>
+
     <string formatted="false" name="current_selected_s">Current selection: %s</string>
     <string name="up_arrow">\u2191</string>
     <string name="down_arrow">\u2193</string>
-    <string name="latest_price">Latest Price</string>
     <string name="change_per_in_24h">24h Chg</string>
     <string name="self_selected">Favorites</string>
     <string name="optional_market">Choose Market</string>
-    <string name="depute_order_new_deal">orders/Filled</string>
-    <string formatted="false" name="price_s">Price(%s)</string>
-    <string formatted="false" name="amount_s">Value(%s)</string>
-
+    <string name="depute_order_new_deal">Orders/Trades</string>
     <string name="BTC">BTC</string>
     <string name="ETH">ETH</string>
     <string name="USDT">USDT</string>
 
-    <string name="buy_in">Buy</string>
-    <string name="sell_out">Sell</string>
+
     <string name="highest_colon">High:</string>
     <string name="lowest_colon">Low:</string>
     <string name="today_open_colon">Open:</string>
 
-    <string name="fast_buy">Buy</string>
-    <string name="fast_sell">Sell</string>
+    <string name="fast_buy">Fast Buy</string>
+    <string name="fast_sell">Fast Sell</string>
     <string name="go_to_transaction_page">To Trade</string>
 
     <string name="depute_order">Orders</string>
     <string name="new_deal">Trades</string>
-    <string name="amount">Amount</string>
-    <string name="price">Price</string>
-    <string name="time">Time</string>
+
     <string name="deep">Depth</string>
     <string name="time_share">Time</string>
     <string name="one_minute">1m</string>
@@ -58,6 +48,6 @@
     <string name="range">Q</string>
     <string name="vol">V</string>
 
-    <string name="add_favorite">+Favorites</string>
-    <string name="delete_favorite">Delete</string>
+    <string name="add_favorite">Favorites</string>
+    <string name="delete_favorite">Favorites</string>
 </resources>

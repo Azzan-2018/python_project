@@ -5,13 +5,11 @@
     <string name="withdraw">Withdrawal</string>
     <string name="recharge_simple">Deposit</string>
     <string name="withdraw_simple">Withdrawal</string>
-    <string name="history_record">History records</string>
     <string name="estimate_BTC">Estimate(BTC)</string>
     <string name="choose_coin_type">Choose Coin</string>
     <string name="usable_capital">Available Balance</string>
     <string name="withdraw_cash">Amount</string>
-    <string name="all">All</string>
-    <string name="total_amount">Total</string>
+
     <string name="capital_detail">Detail</string>
     <string name="withdraw_address">Address</string>
     <string formatted="false" name="sure_withdraw_val_bigger_than_f">The withdrawal amount should be greater than %f</string>
@@ -26,16 +24,11 @@
     <string name="copy_failed">Copy failed</string>
     <string name="coin_name_and_amount">Coin / Total</string>
     <string name="bill_type_and_count">Type / Value</string>
-    <string name="time">Time</string>
     <string name="choose_withdraw_address">Choose Recharge Address</string>
     <string name="usable">Available</string>
     <string name="holder">Frozen</string>
     <string name="all_time">All times</string>
     <string name="all_type">All Type</string>
     <string name="all_coin">All coins</string>
-    <string name="one_day">1D</string>
-    <string name="three_day">3D</string>
-    <string name="one_week">1W</string>
-    <string name="one_month">1M</string>
 
 </resources>

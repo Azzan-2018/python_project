@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 import sys
 import xdrlib
-
-from XLSHelper import XLSHelper
-from XMLHelper import XMLHelper
+from xlSHelper import XLSHelper
+from xmLHelper import XMLHelper
 
 def main():
     keyValMapZh = {}

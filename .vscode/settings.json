@@ -2,15 +2,15 @@
     "python.unitTest.unittestArgs": [
         "-v",
         "-s",
-        "./android_language",
+        "./web_language",
         "-p",
-        "*test.py"
+        "test*.py"
     ],
     "python.unitTest.pyTestEnabled": false,
     "python.unitTest.nosetestsEnabled": false,
-    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.unittestEnabled": true,
     "python.unitTest.pyTestArgs": [
         "android_language"
     ],
-    "python.unitTest.promptToConfigure": false
+    "python.linting.pylintEnabled": true
 }

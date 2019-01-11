@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">TaiWo</string>
-    <string name="rise_board">涨幅榜</string>
-    <string name="foll_board">跌幅榜</string>
-    <string name="new_coin_board">新币榜</string>
-    <string name="please_open_call_phone_permission">请开启拨打电话权限</string>
-</resources>

@@ -53,6 +53,16 @@ class XLSHelper:
         self.write_map(file.add_sheet('重复翻译'), unTanslateMap)
         file.save("词条重复扫描.xls")
 
+
+    def generate_web_static_language_xls(self, unTanslateEnMap, unTranslateZhMap, unTranslateMap):
+         file = Workbook(encoding='utf-8')
+         # 指定file以utf-8的格式打开
+         self.write_map(file.add_sheet("未翻译的英文"), unTanslateEnMap)
+         self.write_map(file.add_sheet('未翻译的中文'), unTranslateZhMap)
+         self.write_map(file.add_sheet('未翻译的词条'), unTranslateMap)
+         file.save(self._xlsPath)
+
+
     def getKeyValMap(self):
         return self.excel_table_byindex()
 

@@ -25,7 +25,7 @@ class SearchFileHelper:
         else: return []
     
     def searchKeyAndValByTemplate(self):
-        match = re.compile(r'intl.get(.*)')
+        match = re.compile(r'(?<=intl\.get)(\([\'\"][\w\s\.]*[\'\"]\))')
         replaceRep = re.compile(r'[()"\']')
         keySet = set()
         for line in self.__file:
